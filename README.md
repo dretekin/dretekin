@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dretekin
+- 👋 Hi, I’m @tenyapious
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on JavaScript Projects.
